@@ -1,0 +1,13 @@
+{
+  "name": "rehearsal-booker-frontend",
+  "version": "1.0.0",
+  "description": "Mobile-responsive front-end for Rehearsal Booker.",
+  "main": "src/App.js",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
